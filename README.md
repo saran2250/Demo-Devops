@@ -18,3 +18,6 @@ auth
 git push                                       (pushed local code to github)
 
 git pull                                       (pulls global code to local)
+
+
+file modified --> git add(staging area) ---> git commit(only staged files)  ---> git push(only commited files can be pushed to global/github)
