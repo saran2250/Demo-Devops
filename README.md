@@ -1,7 +1,7 @@
 # Demo-Devops
 
 
-git clone https://github.com/saran2250/Demo-Devops.git   (pulled global code to local)
+git clone https://github.com/saran2250/Demo-Devops.git   (pulled global code to local)  ---- this is for the first time(only one time)
 
 git status
 
