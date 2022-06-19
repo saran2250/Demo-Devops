@@ -30,3 +30,5 @@ Git Fetch is the command that tells the local repository that there are changes 
 Topics to be explored
 ======================
 Git reset vs revert
+
+Git branching
