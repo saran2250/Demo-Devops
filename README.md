@@ -25,3 +25,8 @@ file modified --> git add(staging area) ---> git commit(only staged files)  --->
 Git pull vs fetch
 
 Git Fetch is the command that tells the local repository that there are changes available in the remote repository without bringing the changes into the local repository. Git Pull on the other hand brings the copy of the remote directory changes into the local repository.
+
+
+Topics to be explored
+======================
+Git reset vs revert
