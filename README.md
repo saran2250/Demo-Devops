@@ -10,6 +10,7 @@ git add  filenames  - it will add modified files to staging area
 git commit -m "message"
 
 git push
+
 git config --global --edit
 username
 email
