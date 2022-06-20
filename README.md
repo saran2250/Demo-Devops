@@ -34,6 +34,10 @@ git branch branchname
 Git reset
 git reset HEAD~1 (removes latest 1 commit from commit history, modes: soft, mixed, hard)
 
+Git Checkout
+git checkout commitID (revert to particular commit)
+git checkout branchname (switch to particular branch)
+
 Topics to be explored
 ======================
  git revert
