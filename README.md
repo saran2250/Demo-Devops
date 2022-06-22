@@ -39,10 +39,12 @@ Git Checkout
 git checkout commitID (revert to particular commit)
 git checkout branchname (switch to particular branch)
 
+Git pull request
+
 Topics to be explored
 ======================
  git revert
  
- Git pull request
+ 
 
 
