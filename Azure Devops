@@ -4,8 +4,4 @@
 2.Importing a repo from github to azure repos
 3.Creating Build pipeline & compiled code, produced artifact, published artifact to azure artifacts
 
-Prepare on this topics
-------------------
-Continuous Integration  ===...?
-Build Pipeline ...?
-Release Pipeline ...?
+
